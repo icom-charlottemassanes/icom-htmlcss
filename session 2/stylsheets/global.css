@@ -1,0 +1,36 @@
+/*
+
+My CSS global file
+
+*/
+html, boyd, h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, il, dl, dt, dd, form, fieldset, input, textarea, label, u {
+	margin : 0;
+	padding: 0;
+	border: 0px;
+	list-style: none;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+}
+
+body{bacjground:#FFF;}
+
+a,
+a:hover{ text-decoration:none;}
+
+
+
+#wrapper {
+	width : 1200px;
+	margin : 0 auto;
+	}
+
+#header {
+	width :100%;
+	}
+
+#logo {
+	}
+
+#nav {
+}	
